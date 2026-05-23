@@ -27,5 +27,5 @@ A Student Result Analysis Dashboard built using Python, Pandas, Matplotlib, and 
 ```bash
 streamlit run app.py
 
-## 🔗 Live App:
+```🔗 Live App:
 https://student-result-dashboard-k908912.streamlit.app/
